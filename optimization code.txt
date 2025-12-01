@@ -1,0 +1,3 @@
+Optimization Code
+1. only have comparison in the if statement. Do not have a calculation in the condition.
+2. 
